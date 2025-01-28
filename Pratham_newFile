@@ -1,0 +1,11 @@
+Always Keep in Mind To never Commit to main Branch Directly unless what you should do is to 
+
+1 -> make a new Branch first 
+
+2 -> now shift your header to this branch 
+
+3-> after shifting and making a required changes or simply creating a new file you will get to Know that the changes are commited in new branch 
+
+4 -> now what to Do is to push your code at origin / master branch hence this will create a new commit to main branch and raise a merge Request 
+
+
