@@ -1,0 +1,20 @@
+Here Now we are going to Discuss how to creaate a new Branch and how to Merge our code in that original Branch rather than merging it back into the main Branch 
+
+What we need to do is Command ->  git branch <Branch Name>
+ 
+Command -2 > Shift the Header to another branch Command to thath is ->  git checkout <BranchName> 
+
+Command -3 < after this all other Commits will be kept in the newly Created Branch and hence For that we need to Merge our Branch with the main Branch
+and Hence what we need to raise a Pull request and Hence for that 
+
+Command -4 > jsut Push your Code Back to the git repository
+uae command Command -> git push origin <Name of the Branch Created > 
+
+
+Hence later your request will be acepted from the user sitting on the Upstream Url and Hence your Work is DOne FOr Every New Feature a new Branch Will be Created 
+and hence for that one thing that we need to keep in mind is that
+
+
+new Feture New Branch , no combiantion will be made for combinning with the old branch 
+
+
